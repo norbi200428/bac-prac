@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1677530855 source:d:\porgramok\hazzi_4\main.cpp
+	<iostream>
+	<sstream>
+	<string>
+
