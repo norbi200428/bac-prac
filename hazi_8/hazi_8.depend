@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677692783 source:d:\programok\hazi_8\main.cpp
+	<iostream>
+	<fstream>
+
