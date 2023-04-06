@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680790790 source:d:\programok\2021_vi_iii_3\main.cpp
+	<iostream>
+	<fstream>
+
