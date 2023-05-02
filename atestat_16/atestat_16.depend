@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682842405 source:d:\programok\atestat_16\main.cpp
+	<iostream>
+	<fstream>
+
